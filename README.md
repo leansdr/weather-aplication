@@ -1,7 +1,9 @@
 # weather-aplication
 Aplicação de previsão de tempo desenvolvida para o teste técnico na 2B Digital 
 
-<img src/
+<p align=center>  
+<img src="assets/img/image0.png" width="400"/> <img src="assets/img/image1.png" width="400"/>
+</p>
 
 ## Tecnologias utilizadas
 <ul>
